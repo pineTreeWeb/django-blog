@@ -25,7 +25,7 @@ SECRET_KEY = 'b1p(o)!@=xj0q!=e1ktk2fes=3h&h)!=7ljd5&w=e6ql@2gll9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pinetree.pythonanywhere.com']
 # Application definition
 
 INSTALLED_APPS = [
